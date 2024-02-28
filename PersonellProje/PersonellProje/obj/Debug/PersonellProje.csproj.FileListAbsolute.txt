@@ -1,0 +1,12 @@
+C:\Programlama\c# form\PersonellProje\PersonellProje\bin\Debug\PersonellProje.exe.config
+C:\Programlama\c# form\PersonellProje\PersonellProje\bin\Debug\PersonellProje.exe
+C:\Programlama\c# form\PersonellProje\PersonellProje\bin\Debug\PersonellProje.pdb
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.csproj.AssemblyReference.cache
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.Properties.Resources.resources
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.csproj.GenerateResource.cache
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.csproj.CoreCompileInputs.cache
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.exe
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.pdb
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.Frmİstatistik.resources
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.FrmAnaform.resources
+C:\Programlama\c# form\PersonellProje\PersonellProje\obj\Debug\PersonellProje.FrmGrafik.resources
